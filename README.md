@@ -1,6 +1,6 @@
 # Sistema Bancario JAVA
 
-## Objetivo
+#### Objetivo
 
 O objetivo deste sistema é implementar uma solução de gerenciamento de conta bancária simples, permitindo ao usuário realizar operações de criação de conta, login, saque e consulta de saldo.
 
